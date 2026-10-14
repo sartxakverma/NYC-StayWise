@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44 44" role="img" aria-label="NYC skyline">
+  <rect width="44" height="44" rx="12" fill="#d98a52"/>
+  <g fill="none" stroke="#2a2520" stroke-width="2.7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M4 38V19l8-6v25M13 38V8l9-4v34M23 38V16l8-5v27M32 38V21l8-4v21"/>
+    <path d="M2 39h40"/>
+  </g>
+  <path d="M8 22v3m0 4v3m9-17v3m0 5v3m0 5v3m9-10v3m0 5v3m9-8v3m0 5v3" fill="none" stroke="#584736" stroke-width="1.7" stroke-linecap="round"/>
+</svg>
